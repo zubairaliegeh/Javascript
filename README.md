@@ -1,0 +1,2 @@
+# jafa-script
+Hello world
