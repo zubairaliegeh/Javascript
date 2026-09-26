@@ -1,2 +1,2 @@
-# jafa-script-project
+# java-script-project
 Hello world
