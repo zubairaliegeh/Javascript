@@ -1,2 +1,2 @@
-# jafa-script
+# jafa-script-project
 Hello world
