@@ -1,2 +1,2 @@
-# java-script-project
+# javascript-project
 Hello world
